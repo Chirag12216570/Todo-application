@@ -6,7 +6,6 @@ This is a React-based Todo application created using Vite. It allows users to ma
 ## Features
 - Add, edit, and delete todos
 - Expandable cards for viewing descriptions
-- Modern black-and-white theme
 - Full-width responsive design
 
 ## Installation

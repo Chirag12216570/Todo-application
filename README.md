@@ -1,7 +1,4 @@
 # Todo App
-## 🚀 Live Demo  
-Check out the live version of this project:  
-🔗 [Todo App](https://todo-19otapbss-chirags-projects-44a827c7.vercel.app)
 
 ## Introduction
 This is a React-based Todo application created using Vite. It allows users to manage their tasks efficiently.
@@ -66,13 +63,16 @@ npm run dev
 ├── src/
 │   ├── components/    # Reusable components
 │   ├── pages/         # Different pages (Home, Todo, etc.)
-│   ├── assets/        # Images and styles
+│   ├── assets/        # Images and other static assets
+│   ├── style/         # CSS files for individual components/pages
 │   ├── App.jsx        # Main application component
 │   ├── main.jsx       # Entry point
 │   ├── styles.css     # Global styles
 ├── public/            # Static assets
 ├── package.json       # Dependencies and scripts
 ├── README.md          # Project documentation
+
+
 ```
 
 ## Uninstall Unnecessary Dependencies Before Pushing to GitHub
@@ -90,4 +90,7 @@ dist/
 
 ## License
 This project is open-source and available under the MIT License.
+## 🚀 Live Demo  
+Check out the live version of this project:  
+🔗 [Todo App](https://todo-19otapbss-chirags-projects-44a827c7.vercel.app)
 

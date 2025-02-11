@@ -1,4 +1,7 @@
 # Todo App
+## 🚀 Live Demo  
+Check out the live version of this project:  
+🔗 [Todo App](https://todo-19otapbss-chirags-projects-44a827c7.vercel.app)
 
 ## Introduction
 This is a React-based Todo application created using Vite. It allows users to manage their tasks efficiently.
